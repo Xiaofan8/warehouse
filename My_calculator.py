@@ -10,7 +10,7 @@ window.resizable(0,0)
 #创建Label
 data = ''
 Var_showtext = tk.StringVar()
-ShowLabel = tk.Label(window,font=('微软雅黑',30),textvariable = Var_showtext,bg='#FFE4C4',fg='black')
+ShowLabel = tk.Label(window,font=('微软雅黑',30),textvariable = Var_showtext,bg='#EEC591',fg='black')
 ShowLabel.place(x=0,y=0,width=630,height=70)
 
 #创建Entry
