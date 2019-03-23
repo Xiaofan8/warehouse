@@ -7,6 +7,7 @@ window.title('计算器')
 window.geometry('400x630')
 window.resizable(0,0)
 
+
 #创建Label
 data = ''
 Var_showtext = tk.StringVar()
